@@ -97,7 +97,7 @@ class _ScheduleList extends StatelessWidget {
             return ScheduleCard(
               startTime: 8,
               endTime: 9,
-              content: '프로그래밍 공부하기. $index',
+              content: '프로그래밍 공부하기.',
               color: Colors.red,
             );
           },
